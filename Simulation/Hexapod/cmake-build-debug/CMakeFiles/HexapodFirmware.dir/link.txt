@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\HexapodFirmware.dir/objects.a
+C:\PROGRA~1\WINBIU~1\bin\ar.exe cr CMakeFiles\HexapodFirmware.dir/objects.a @CMakeFiles\HexapodFirmware.dir\objects1.rsp
+C:\PROGRA~1\WINBIU~1\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\HexapodFirmware.dir/objects.a -Wl,--no-whole-archive  -o HexapodFirmware.exe -Wl,--out-implib,libHexapodFirmware.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\HexapodFirmware.dir\linklibs.rsp

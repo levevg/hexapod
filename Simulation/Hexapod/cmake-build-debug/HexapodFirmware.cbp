@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="HexapodFirmware"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HexapodFirmware">
+				<Option output="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/WinBiulds/include"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware"/>
+					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HexapodFirmware/fast">
+				<Option output="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/WinBiulds/include"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware/fast"/>
+					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/main.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.cpp">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.h">
+			<Option target="HexapodFirmware"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

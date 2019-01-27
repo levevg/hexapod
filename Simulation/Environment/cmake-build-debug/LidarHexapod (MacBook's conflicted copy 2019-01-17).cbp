@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LidarHexapod"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LidarHexapod">
+				<Option output="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/LidarHexapod.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:/MinGW/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 LidarHexapod"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LidarHexapod/fast">
+				<Option output="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/LidarHexapod.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:/MinGW/freeglut/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 LidarHexapod/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.h">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/main.cpp">
+			<Option target="LidarHexapod"/>
+		</Unit>
+		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
