@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,35 +6,35 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Camera.cpp
 GL/gl.h
 -
 GL/glu.h
 -
 Camera.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Camera.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Camera.h
 Point3D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point3D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/ComReciever.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/ComReciever.cpp
 ComReciever.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/ComReciever.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/ComReciever.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 FirmwareCode/Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 FirmwareCode/Config.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.h
 iostream
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/ComReciever.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/ComReciever.h
 thread
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/CommandLine.cpp
 GL/freeglut.h
 -
 iterator
@@ -42,39 +42,39 @@ iterator
 sstream
 -
 CommandLine.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/CommandLine.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/CommandLine.h
 string
 -
 vector
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FPSCounter.cpp
 FPSCounter.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FPSCounter.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FPSCounter.h
 GL/freeglut.h
 -
 string
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/AbstractBehavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/AbstractBehavior.cpp
 AbstractBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/AbstractBehavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/AbstractBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.cpp
 Config.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.h
 map
 -
 string
@@ -86,9 +86,9 @@ tuple
 sstream
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 cstdint
 -
 cmath
@@ -96,7 +96,7 @@ cmath
 exception
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.h
 string
 -
 map
@@ -104,65 +104,65 @@ map
 tuple
 -
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.cpp
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 iostream
 -
 thread
 -
 AbstractBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/AbstractBehavior.h
 windows.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/windows.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/windows.h
 unistd.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Joint.h
 Limb.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Limb.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Joint.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Joint.cpp
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Joint.h
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 iostream
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Joint.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Limb.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Limb.cpp
 Limb.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Limb.h
 cmath
 -
 iostream
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 GL/gl.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Limb.h
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Joint.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Hexapod.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.cpp
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 iostream
 -
 iomanip
@@ -174,7 +174,7 @@ windows.h
 termios.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 fcntl.h
 -
 unistd.h
@@ -186,51 +186,51 @@ windows.h
 termios.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Lidar.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Lidar.cpp
 thread
 -
 algorithm
 -
 Lidar.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Lidar.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Lidar.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Lidar.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Lidar.h
 vector
 -
 mutex
 -
 FirmwareCode/Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 Point2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Pod.cpp
 GL/gl.h
 -
 algorithm
 -
 Pod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Pod.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 FirmwareCode/Config.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Pod.h
 string
 -
 Point2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 VirtualRoom.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/VirtualRoom.h
 Lidar.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Lidar.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Lidar.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.cpp
 Point2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 cmath
 -
 GL/gl.h
@@ -238,27 +238,27 @@ GL/gl.h
 string
 -
 Point3D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point3D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point3D.cpp
 Point3D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point3D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point3D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point3D.h
 GL/gl.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Segment2D.cpp
 Segment2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Segment2D.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Segment2D.h
 Point2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.cpp
 cstdint
 -
 GL/freeglut.h
@@ -268,9 +268,9 @@ string
 utility
 -
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 string
 -
 utility
@@ -278,57 +278,57 @@ utility
 GL/freeglut.h
 -
 CommandLine.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/CommandLine.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/CommandLine.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/VirtualRoom.cpp
 GL/gl.h
 -
 VirtualRoom.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/VirtualRoom.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/VirtualRoom.h
 vector
 -
 Point2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Point2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Point2D.h
 Segment2D.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Segment2D.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Segment2D.h
 
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/main.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/main.cpp
 GL/freeglut.h
 -
 cstdint
 -
 Camera.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Camera.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Camera.h
 Utils.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Utils.h
 FPSCounter.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FPSCounter.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FPSCounter.h
 VirtualRoom.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/VirtualRoom.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/VirtualRoom.h
 Pod.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/Pod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/Pod.h
 FirmwareCode/Config.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Config.h
 FirmwareCode/Serial.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/FirmwareCode/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/FirmwareCode/Serial.h
 ComReciever.h
-C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/ComReciever.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/ComReciever.h
 
-c:/Program Files/WinBiulds/mingw/freeglut/include/GL/freeglut.h
+c:/WinBuilds/freeglut/include/GL/freeglut.h
 freeglut_std.h
-c:/Program Files/WinBiulds/mingw/freeglut/include/GL/freeglut_std.h
+c:/WinBuilds/freeglut/include/GL/freeglut_std.h
 freeglut_ext.h
-c:/Program Files/WinBiulds/mingw/freeglut/include/GL/freeglut_ext.h
+c:/WinBuilds/freeglut/include/GL/freeglut_ext.h
 
-c:/Program Files/WinBiulds/mingw/freeglut/include/GL/freeglut_ext.h
+c:/WinBuilds/freeglut/include/GL/freeglut_ext.h
 stdarg.h
 -
 
-c:/Program Files/WinBiulds/mingw/freeglut/include/GL/freeglut_std.h
+c:/WinBuilds/freeglut/include/GL/freeglut_std.h
 windows.h
 -
 EGL/egl.h

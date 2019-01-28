@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -6,47 +6,47 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.cpp
 AbstractBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.cpp
 Behavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 AbstractBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 utils.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.cpp
 Behavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 CatBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.h
 cstdlib
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 Behavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.cpp
 Config.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h
 map
 -
 string
@@ -58,9 +58,9 @@ tuple
 sstream
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 cstdint
 -
 cmath
@@ -68,7 +68,7 @@ cmath
 exception
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h
 string
 -
 map
@@ -76,61 +76,61 @@ map
 tuple
 -
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.cpp
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 iostream
 -
 math.h
 -
 AbstractBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.h
 windows.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/windows.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/windows.h
 unistd.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.h
 Limb.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.cpp
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.h
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 Config.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h
 iostream
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.h
 cstdint
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.cpp
 iostream
 -
 math.h
 -
 LidarAPI.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.h
 vector
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.cpp
 thread
 -
 iostream
@@ -138,39 +138,39 @@ iostream
 math.h
 -
 LidarBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 Behavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 LidarAPI.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.h
 mutex
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.cpp
 Limb.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.h
 cmath
 -
 iostream
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 Config.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.h
 Joint.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.cpp
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 iostream
 -
 iomanip
@@ -182,7 +182,7 @@ windows.h
 termios.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 fcntl.h
 -
 unistd.h
@@ -194,43 +194,43 @@ windows.h
 termios.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.cpp
 SquareTestBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.h
 Hexapod.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h
 Behavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/main.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/main.cpp
 iostream
 -
 Serial.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h
 Config.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h
 CatBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.h
 LidarAPI.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.h
 LidarBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.h
 SquareTestBehavior.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.h
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.cpp
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.cpp
 utils.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.h
 chrono
 -
 windows.h
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/windows.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/windows.h
 unistd.h
 -
 
-C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.h
+C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.h
 cstdint
 -
 

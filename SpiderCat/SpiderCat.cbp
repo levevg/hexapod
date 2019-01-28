@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="SpiderCat" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/SpiderCat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/SpiderCat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-s" />
+				</Compiler>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-std=c++11" />
+			<Add option="-std=c++0x" />
+			<Add option="`opencv-config --cxxflags`" />
+			<Add directory="c:/MinGW/OpenCV/bin/install/include/" />
+		</Compiler>
+		<Linker>
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_calib3d2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_contrib2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_core2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_features2d2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_flann2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_gpu2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_highgui2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_imgproc2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_legacy2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_ml2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_nonfree2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_objdetect2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_ocl2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_photo2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_stitching2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_superres2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_ts2413.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_video2413.dll.a" />
+			<Add library="C:\MinGW\OpenCV\bin\install\x86\mingw\lib\libopencv_videostab2413.dll.a" />
+			<Add directory="c:/MinGW/OpenCV/bin/install/x86/mingw/lib/" />
+		</Linker>
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<envvars />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

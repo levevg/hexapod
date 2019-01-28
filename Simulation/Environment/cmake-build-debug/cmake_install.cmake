@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/UnSeen/Dropbox/Projects/LidarHexapod
+# Install script for directory: C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -35,5 +35,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/UnSeen/Dropbox/Projects/LidarHexapod/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Environment/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -7,11 +7,118 @@
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0c4f0b5-75e5-4ed1-8046-82e1badb299d" name="Default" comment="" />
+    <list default="true" id="d0c4f0b5-75e5-4ed1-8046-82e1badb299d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Environment/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/LidarHexapod.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/LidarHexapod (MacBook's conflicted copy 2019-01-17).cbp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/Makefile (MacBook's conflicted copy 2019-01-17)" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Environment/config.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeCXXCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_C.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeDetermineCompilerABI_CXX.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeRCCompiler.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CMakeSystem.cmake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.9.6/CompilerIdCXX/a.exe" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Camera.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Camera.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/ComReciever.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/ComReciever.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/CommandLine.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/CommandLine.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FPSCounter.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FPSCounter.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/AbstractBehavior.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/AbstractBehavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Config.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Config.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Hexapod.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Hexapod.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Joint.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Joint.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Limb.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Limb.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Serial.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/FirmwareCode/Serial.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Lidar.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Lidar.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Pod.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Pod.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Point2D.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Point2D.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Point3D.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Point3D.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Segment2D.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Segment2D.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Utils.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/Utils.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/VirtualRoom.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/VirtualRoom.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/main.cpp.obj" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/main.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/objects.a" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/objects.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/LidarHexapod.exe" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/LidarHexapod.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/AbstractBehavior.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/AbstractBehavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Behavior.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Behavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/CatBehavior.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/CatBehavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Config.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Config.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Hexapod.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Hexapod.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Joint.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Joint.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/LidarAPI.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/LidarAPI.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/LidarBehavior.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/LidarBehavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Limb.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Limb.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Serial.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/Serial.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/SquareTestBehavior.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/SquareTestBehavior.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/main.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/main.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/objects.a" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/objects.a" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/utils.cpp.obj" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/utils.cpp.obj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/HexapodFirmware.exe" afterPath="$PROJECT_DIR$/cmake-build-debug/HexapodFirmware.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Environment/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/CMakeLists.txt" afterPath="$PROJECT_DIR$/../Environment/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/CXX.includecache" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/build.make" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/depend.internal" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/depend.internal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/depend.make" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/depend.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/flags.make" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/includes_CXX.rsp" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/includes_CXX.rsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/link.txt" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/linklibs.rsp" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/LidarHexapod.dir/linklibs.rsp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/LidarHexapod.cbp" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/LidarHexapod.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/../Environment/cmake-build-debug/cmake_install.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Environment/main.cpp" afterPath="$PROJECT_DIR$/../Environment/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CMakeLists.txt" afterPath="$PROJECT_DIR$/CMakeLists.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/CXX.includecache" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/CXX.includecache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/DependInfo.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/DependInfo.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/build.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/build.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/depend.internal" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/depend.internal" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/depend.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/depend.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/flags.make" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/flags.make" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/link.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/HexapodFirmware.dir/link.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/HexapodFirmware.cbp" afterPath="$PROJECT_DIR$/cmake-build-debug/HexapodFirmware.cbp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,28 +127,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Serial.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Serial.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
+            <state relative-caret-position="280">
               <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
               <folding>
-                <element signature="e#138#158#0" expanded="true" />
-                <element signature="e#378#1057#0" expanded="true" />
-                <element signature="e#2459#3220#0" expanded="true" />
-                <element signature="e#3318#3337#0" expanded="true" />
-                <element signature="e#3476#3500#0" expanded="true" />
-                <element signature="e#4151#4172#0" expanded="true" />
-                <element signature="e#4345#4410#0" expanded="true" />
-                <element signature="e#4428#4470#0" expanded="true" />
-                <element signature="e#4630#4769#0" expanded="true" />
-                <element signature="e#4936#5001#0" expanded="true" />
-                <element signature="e#5019#5055#0" expanded="true" />
-                <element signature="e#5230#5317#0" expanded="true" />
-                <element signature="e#5349#5403#0" expanded="true" />
+                <element signature="e#4151#4172#0" expanded="false" />
+                <element signature="e#4630#4769#0" expanded="false" />
+                <element signature="e#5349#5403#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -50,10 +147,10 @@
       <file leaf-file-name="LidarBehavior.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LidarBehavior.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
+            <state relative-caret-position="1860">
               <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
               <folding>
-                <element signature="e#43#60#0" expanded="true" />
+                <element signature="e#43#60#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -62,11 +159,9 @@
       <file leaf-file-name="LidarBehavior.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LidarBehavior.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-              <folding>
-                <element signature="e#123#143#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="840">
+              <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -74,20 +169,28 @@
       <file leaf-file-name="Hexapod.cpp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Hexapod.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1624">
+            <state relative-caret-position="3220">
               <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-              <folding>
-                <element signature="e#131#150#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/config.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+            <state relative-caret-position="540">
+              <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -96,10 +199,10 @@
       <file leaf-file-name="Behavior.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Behavior.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="936">
+            <state relative-caret-position="1040">
               <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
               <folding>
-                <element signature="e#710#730#0" expanded="true" />
+                <element signature="e#710#730#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -123,10 +226,12 @@
       <find>moveA</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CMakeLists.txt" />
         <option value="$PROJECT_DIR$/AbstractBehavior.h" />
         <option value="$PROJECT_DIR$/AbstractBehavior.cpp" />
         <option value="$PROJECT_DIR$/Behavior.cpp" />
@@ -152,6 +257,7 @@
         <option value="$PROJECT_DIR$/Hexapod.cpp" />
         <option value="$PROJECT_DIR$/LidarBehavior.h" />
         <option value="$PROJECT_DIR$/LidarBehavior.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
       </list>
     </option>
   </component>
@@ -162,10 +268,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
-    <option name="width" value="1322" />
-    <option name="height" value="1036" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -182,27 +292,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HexapodFirmware" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="HexapodFirmware" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HexapodFirmware" type="dad4c3:CidrFilesViewHelper$MyProjectTreeStructure$1" />
-              <item name="HexapodFirmware" type="462c0819:PsiDirectoryNode" />
-              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -223,11 +320,179 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.HexapodFirmware">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HexapodFirmware" RUN_TARGET_NAME="HexapodFirmware" EXPLICIT_BUILD_TARGET_NAME="all">
-      <envs />
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
     </configuration>
-    <configuration name="HexapodFirmware" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HexapodFirmware" TARGET_NAME="HexapodFirmware" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HexapodFirmware" RUN_TARGET_NAME="HexapodFirmware">
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="HexapodFirmware" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HexapodFirmware" RUN_TARGET_NAME="HexapodFirmware" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="HexapodFirmware" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="HexapodFirmware" TARGET_NAME="HexapodFirmware" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="HexapodFirmware" RUN_TARGET_NAME="HexapodFirmware">
+      <envs />
+      <method />
     </configuration>
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
@@ -270,21 +535,21 @@
     <option name="totallyTimeSpent" value="63885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1928" height="1044" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11736111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2730159" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3224543" sideWeight="0.7763889" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36292428" sideWeight="0.69722223" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3224543" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32898173" sideWeight="0.49722221" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27284595" sideWeight="0.49722221" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227513" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3224543" sideWeight="0.49444443" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3227513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -294,7 +559,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -311,7 +576,7 @@
         <state relative-caret-position="540">
           <caret line="30" column="18" lean-forward="false" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
           <folding>
-            <element signature="e#43#60#0" expanded="true" />
+            <element signature="e#43#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -498,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Limb.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -614,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -627,70 +884,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Behavior.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="936">
+        <state relative-caret-position="1040">
           <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
           <folding>
-            <element signature="e#710#730#0" expanded="true" />
+            <element signature="e#710#730#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Serial.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
+        <state relative-caret-position="280">
           <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
           <folding>
-            <element signature="e#138#158#0" expanded="true" />
-            <element signature="e#378#1057#0" expanded="true" />
-            <element signature="e#2459#3220#0" expanded="true" />
-            <element signature="e#3318#3337#0" expanded="true" />
-            <element signature="e#3476#3500#0" expanded="true" />
-            <element signature="e#4151#4172#0" expanded="true" />
-            <element signature="e#4345#4410#0" expanded="true" />
-            <element signature="e#4428#4470#0" expanded="true" />
-            <element signature="e#4630#4769#0" expanded="true" />
-            <element signature="e#4936#5001#0" expanded="true" />
-            <element signature="e#5019#5055#0" expanded="true" />
-            <element signature="e#5230#5317#0" expanded="true" />
-            <element signature="e#5349#5403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LidarBehavior.h">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-          <folding>
-            <element signature="e#123#143#0" expanded="true" />
+            <element signature="e#4151#4172#0" expanded="false" />
+            <element signature="e#4630#4769#0" expanded="false" />
+            <element signature="e#5349#5403#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LidarBehavior.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
+        <state relative-caret-position="1860">
           <caret line="93" column="5" lean-forward="false" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
           <folding>
-            <element signature="e#43#60#0" expanded="true" />
+            <element signature="e#43#60#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hexapod.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1624">
+        <state relative-caret-position="3220">
           <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
-          <folding>
-            <element signature="e#131#150#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/config.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="25" lean-forward="true" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+        <state relative-caret-position="540">
+          <caret line="27" column="25" lean-forward="false" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LidarBehavior.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="9" lean-forward="false" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding />
         </state>
       </provider>

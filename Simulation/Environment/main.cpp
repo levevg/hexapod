@@ -192,9 +192,9 @@ void setup() {
 }
 
 int main(int argc, char **argv) {
-    if (!Config::load()) return 1;
-    if (!lidarPort.open()) return 1;
-    if (!servosPort.open()) return 1;
+    if (!Config::load()) return 2;
+    if (!lidarPort.open()) return 3;
+    if (!servosPort.open()) return 4;
     hexapodComThread = std::thread(hexapodComThreadFunc);
     hexapodComThread.detach();
     glutInit(&argc, argv);

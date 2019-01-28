@@ -8,156 +8,156 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option working_dir="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HexapodFirmware">
-				<Option output="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option output="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/WinBiulds/include"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="c:/WinBuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware"/>
-					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware"/>
+					<CompileFile command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="HexapodFirmware/fast">
-				<Option output="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option output="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/HexapodFirmware.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="C:/Program Files/WinBiulds/include"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
-					<Add directory="c:\program files\winbiulds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
+					<Add directory="c:/WinBuilds/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/x86_64-w64-mingw32"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../include/c++/4.8.3/backward"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/include-fixed"/>
+					<Add directory="c:\winbuilds\bin\../lib64/gcc/x86_64-w64-mingw32/4.8.3/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware/fast"/>
-					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 HexapodFirmware/fast"/>
+					<CompileFile command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option working_dir="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug"/>
+				<Option working_dir="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/WINBIU~1/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/WinBuilds/bin/mingw32-make.exe -f &quot;C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/AbstractBehavior.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/AbstractBehavior.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Behavior.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Behavior.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CatBehavior.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CatBehavior.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Config.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Config.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Hexapod.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Hexapod.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Joint.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Joint.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarAPI.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarAPI.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/LidarBehavior.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/LidarBehavior.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Limb.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Limb.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/Serial.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/Serial.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/SquareTestBehavior.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/SquareTestBehavior.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/main.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/main.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.cpp">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.cpp">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/utils.h">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/utils.h">
 			<Option target="HexapodFirmware"/>
 		</Unit>
-		<Unit filename="C:/Users/UnSeen/Dropbox/Projects/HexapodFirmware/CMakeLists.txt">
+		<Unit filename="C:/Users/UnSeen/CLionProjects/hexapod/Simulation/Hexapod/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
